@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CustomNavigationDrawermenu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="navigationMenus">
+        <item>Home</item>
+        <item>Settings</item>
+        <item>Logout</item>
+    </string-array>
+    <string-array name="settingsMenu">
+
+        <item>About Us</item>
+        <item>Donate</item>
+        <item>Contact Us</item>
+        <item>Terms &amp; Conditions</item>
+        <item>Privacy Policy</item>
+        <item>Share This App</item>
+        <item>Follow Us On</item>
+        <item>Rate This App</item>
+    </string-array>
+    <string-array name="actionbartitle">
+        <item>Home</item>
+
+        <item>About Us</item>
+        <item>Donate</item>
+        <item>Contact Us</item>
+        <item>Terms &amp; Conditions</item>
+        <item>Privacy Policy</item>
+        <item>Share This App</item>
+        <item>Follow Us On</item>
+        <item>Rate This App</item>
+        <item>Logout</item>
+    </string-array>
+</resources>
